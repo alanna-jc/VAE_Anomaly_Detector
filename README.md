@@ -1,3 +1,3 @@
-# VAE_Anomaly_Detector
+# Library of AutoEncoder designs for Anomaly Detection
 
-Project for Anomaly Detection that uses a variational auto encoder
+Each branch is its own design. Ran and designed on Google Colab
